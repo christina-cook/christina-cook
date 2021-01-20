@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a former journalist and educator with a love f
     - exploring new places 🌎
 
 [![Linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cookcmc/)  [![gmail logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](cmc.cook7@gmail.com)
+)](mailto:cmc.cook7@gmail.com)
 <!--
 **christina-cook/christina-cook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
