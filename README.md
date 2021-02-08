@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm a former journalist and educator with a love for learning. I’m currently enrolled in the Front-End Engineering Program at [Turing School of Software & Design](https://turing.io/).
 
-- 🌱 I’m currently learning about API network requests and will soon be learning React!
+- 🌱 I’m currently learning about React!
 - 👩‍💻 Pronouns: she/her
 - ⚡ Interests outside of coding: 
     - cooking 👩‍🍳
