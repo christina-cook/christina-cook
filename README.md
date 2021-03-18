@@ -1,6 +1,5 @@
 ### Hi there, I'm Christina! 👋
 
-![Christina's github stats](https://github-readme-stats.vercel.app/api?username=christina-cook&theme=tokyonight&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christina-cook&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
