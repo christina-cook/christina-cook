@@ -9,7 +9,7 @@ ___
 [![Linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cookcmc/)  [![gmail logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:cmc.cook7@gmail.com)
 
-Welcome to my GitHub profile! I'm a former journalist and educator with a love for learning. I’m currently enrolled in the Front-End Engineering Program at [Turing School of Software & Design](https://turing.io/).
+Welcome to my GitHub profile! I'm a former journalist and educator with a love of learning. I’m currently enrolled in the Front-End Engineering Program at [Turing School of Software & Design](https://turing.io/).
 
 - 🌱 I’m currently learning about Redux!
 - 👩‍💻 Pronouns: she/her
