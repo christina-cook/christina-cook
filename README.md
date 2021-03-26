@@ -1,25 +1,29 @@
 ### Hi there, I'm Christina! 👋
 
+Welcome to my GitHub profile! I'm a former journalist and educator with a love of learning. I’m currently enrolled in the Front-End Engineering Program at [Turing School of Software & Design](https://turing.io/). I enjoy learning new coding languages and frameworks in a collaborative environment and aspire to join a team that fosters growth, agile processes, and inclusivity. 
+
+``` 
+const softwareEngineer = {
+    name: 'Christina Cook',
+    location: 'Broomfield, CO',
+    areaOfFocus: 'Front End',
+    pronouns: 'she/her',
+    currentlyEmployed: false,
+    personalInterests: [
+        'cooking 👩‍🍳',
+        'spending time outdoors with my dog 🐶',
+        'hiking and camping ⛰️ 🏕 ',
+        'learning how to make wine 🍷',
+        'reading magazines 📰',
+        'exploring new places 🌎'
+    ]
+}
+```
+___
+
 ![Christina's github stats](https://github-readme-stats.vercel.app/api?username=christina-cook&theme=tokyonight&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christina-cook&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-___
-
-[![Linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cookcmc/)  [![gmail logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:cmc.cook7@gmail.com)
-
-Welcome to my GitHub profile! I'm a former journalist and educator with a love of learning. I’m currently enrolled in the Front-End Engineering Program at [Turing School of Software & Design](https://turing.io/).
-
-- 🌱 I’m currently learning about Redux!
-- 👩‍💻 Pronouns: she/her
-- ⚡ Interests outside of coding: 
-    - cooking 👩‍🍳
-    - spending time outdoors with my dog 🐶
-    - hiking ⛰️
-    - learning how to make wine 🍷
-    - reading magazines 📰
-    - exploring new places 🌎
 ___
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,11 +43,43 @@ ___
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
     <img src=" https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
+___
+
+### Contact Me:
+<p align="center"> 
+    <a href="https://www.linkedin.com/in/cookcmc/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:cmc.cook7@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+</p>
+
 
 <!--
 **christina-cook/christina-cook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+___
+
+<h3 align="left">🌱 Currently Learning:</h3>
+
+<p align="center"> 
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+
+- 🌱 I’m currently learning about Redux!
+- 👩‍💻 Pronouns: she/her
+- ⚡ Interests outside of coding: 
+    - cooking 👩‍🍳
+    - spending time outdoors with my dog 🐶
+    - hiking ⛰️
+    - learning how to make wine 🍷
+    - reading magazines 📰
+    - exploring new places 🌎
+    
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on becoming a software developer through 
