@@ -26,7 +26,7 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christina-cook&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ___
 
-<h3 align="left">🧠 Languages and Tools:</h3>
+<h3 align="left">🧠  Languages and Tools:</h3>
 <p align="center"> 
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>    
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
@@ -47,7 +47,7 @@ ___
 
 ___
 
-<h3 align="left">🌱 Currently Learning:</h3>
+<h3 align="left">🌱  Currently Learning:</h3>
 
 <p align="center"> 
     <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
@@ -61,7 +61,7 @@ ___
 
 ___
 
-### 👩‍💻 Contact Me:
+### 👩‍💻  Contact Me:
 <p align="center"> 
     <a href="https://www.linkedin.com/in/cookcmc/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
