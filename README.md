@@ -14,7 +14,6 @@ const softwareEngineer = {
         'spending time outdoors with my dog 🐶',
         'hiking and camping ⛰️ 🏕 ',
         'learning how to make wine 🍷',
-        'reading magazines 📰',
         'exploring new places 🌎'
     ]
 }
