@@ -1,6 +1,6 @@
 ### Hi there, I'm Christina! 👋
 
-Welcome to my GitHub profile! I'm a former journalist and educator with a love of learning. I’m currently enrolled in the Front-End Engineering Program at [Turing School of Software & Design](https://turing.io/). I enjoy learning new coding languages and frameworks in a collaborative environment and aspire to join a team that fosters growth, agile processes, and inclusivity. 
+I'm a former journalist and educator with a love of learning. I recently graduated from the Front-End Engineering Program at [Turing School of Software & Design](https://turing.io/) and am excited to embark on a new career as a software engineer! I enjoy learning new coding languages and frameworks in a collaborative environment and aspire to join a team that values communication, fosters growth, and celebrates inclusion. 
 
 ``` 
 const softwareEngineer = {
