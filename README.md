@@ -8,7 +8,6 @@ const softwareEngineer = {
     location: 'Broomfield, CO',
     areaOfFocus: 'Front End',
     pronouns: 'she/her',
-    currentlyEmployed: false,
     personalInterests: [
         'cooking 👩‍🍳',
         'spending time outdoors with my dog 🐶',
