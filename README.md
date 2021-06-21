@@ -1,9 +1,9 @@
 ### Hi there, I'm Christina! 👋
 
-I'm a former journalist and educator with a love of learning. I recently graduated from the Front-End Engineering Program at [Turing School of Software & Design](https://turing.io/) and am excited to embark on a new career as a software engineer! I enjoy learning new coding languages and frameworks in a collaborative environment and aspire to join a team that values communication, fosters growth, and celebrates inclusion. 
+I'm a former journalist and educator with a love of learning. I recently graduated from the Front-End Engineering Program at [Turing School of Software & Design](https://turing.io/) and am excited to embark on a new career as a software developer! I enjoy learning new coding languages and frameworks in a collaborative environment and aspire to join a team that values communication, fosters growth, and celebrates inclusion. 
 
 ``` 
-const softwareEngineer = {
+const softwareDeveloper = {
     name: 'Christina Cook',
     location: 'Broomfield, CO',
     areaOfFocus: 'Front End',
