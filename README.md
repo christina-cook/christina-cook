@@ -1,6 +1,6 @@
 ### Hi there, I'm Christina! 👋
 
-I'm a former journalist and educator turned software developer who specializes in front-end development. I'm an alumna of [Turing School of Software & Design](https://turing.io/). 
+I'm a former journalist and educator turned software engineer who specializes in front-end development. I'm an alumna of [Turing School of Software & Design](https://turing.io/). 
 
 ``` 
 const softwareDeveloper = {
@@ -21,7 +21,6 @@ ___
 
 ![Christina's github stats](https://github-readme-stats.vercel.app/api?username=christina-cook&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christina-cook&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ___
 
 <h3 align="left">🧠  Languages and Tools:</h3>
