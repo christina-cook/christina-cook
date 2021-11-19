@@ -3,7 +3,7 @@
 I'm a former journalist and educator turned software engineer who specializes in front-end development. I'm an alumna of [Turing School of Software & Design](https://turing.io/). 
 
 ``` 
-const softwareDeveloper = {
+const softwareEngineer = {
     name: 'Christina Cook',
     location: 'Broomfield, CO',
     areaOfFocus: 'Front End',
