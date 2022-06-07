@@ -5,7 +5,7 @@ I'm a former journalist and educator turned software engineer who specializes in
 ``` 
 const softwareEngineer = {
     name: 'Christina Cook',
-    location: 'Broomfield, CO',
+    location: 'Denver, CO',
     areaOfFocus: 'Front End',
     pronouns: 'she/her',
     personalInterests: [
