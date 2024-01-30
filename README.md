@@ -19,10 +19,6 @@ const softwareEngineer = {
 ```
 ___
 
-![Christina's github stats](https://github-readme-stats.vercel.app/api?username=christina-cook&theme=tokyonight&show_icons=true)
-
-___
-
 <h3 align="left">🧠  Languages and Tools:</h3>
 <p align="center"> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
