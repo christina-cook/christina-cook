@@ -4,15 +4,15 @@ I'm a former journalist and educator turned software engineer who specializes in
 
 ``` 
 const softwareEngineer = {
-    name: 'Christina Cook',
+    name: 'Christina (Cook) Vieira',
     location: 'Denver, CO',
     areaOfFocus: 'Front End',
     pronouns: 'she/her',
     personalInterests: [
+        'spending time with my family 🧔🏻‍♂️👧🏼🐶',
         'cooking 👩‍🍳',
-        'spending time outdoors with my dog 🐶',
+        'gardening 🌻',
         'hiking and camping ⛰️ 🏕 ',
-        'learning how to make wine 🍷',
         'exploring new places 🌎'
     ]
 }
